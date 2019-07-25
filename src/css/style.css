@@ -1,0 +1,9 @@
+span{
+    color:red;
+}
+div{
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    background-image: url(../images/2.gif);
+}
